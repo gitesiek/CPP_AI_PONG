@@ -1,2 +1,1 @@
-# CPP_AI_PONG
-The simplest ai to pong possible pushed to limit when game takes too long without points
+Code needs improvements, readability could be better, classes should be divided into .h and .cpp files, thats on TODO list
